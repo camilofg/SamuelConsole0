@@ -1,0 +1,15 @@
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\bin\Debug\net6.0\SamuelConsole.exe
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\bin\Debug\net6.0\SamuelConsole.deps.json
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\bin\Debug\net6.0\SamuelConsole.runtimeconfig.json
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\bin\Debug\net6.0\SamuelConsole.dll
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\bin\Debug\net6.0\SamuelConsole.pdb
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\obj\Debug\net6.0\SamuelConsole.csproj.AssemblyReference.cache
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\obj\Debug\net6.0\SamuelConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\obj\Debug\net6.0\SamuelConsole.AssemblyInfoInputs.cache
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\obj\Debug\net6.0\SamuelConsole.AssemblyInfo.cs
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\obj\Debug\net6.0\SamuelConsole.csproj.CoreCompileInputs.cache
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\obj\Debug\net6.0\SamuelConsole.dll
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\obj\Debug\net6.0\refint\SamuelConsole.dll
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\obj\Debug\net6.0\SamuelConsole.pdb
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\obj\Debug\net6.0\SamuelConsole.genruntimeconfig.cache
+C:\Users\Raul_Forero\source\repos\SamuelConsole0\obj\Debug\net6.0\ref\SamuelConsole.dll
